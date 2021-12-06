@@ -56,3 +56,7 @@ html{
 	animation-iteration-count: infinite;
 	text-align: center;
 }
+
+html{
+	opacity: 0;
+}
